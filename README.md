@@ -37,7 +37,7 @@ O usuário pode:
 
 # :woman_technologist: Tecnologias
 
-As tecnologias utilizadas foram CSS, HTML e JavaScript. 
+As tecnologias utilizadas neste projeto incluem HTML e CSS para a estruturação e estilização das interfaces, garantindo telas funcionais e visualmente atraentes. Já as regras de negócio dos sistemas foram implementadas em JavaScript, trazendo interatividade e lógica para as funcionalidades.
 
 # :gear: Instalação
 
